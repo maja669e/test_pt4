@@ -1,1 +1,2 @@
-Hej med dig
+# This is the readme
+coolio
